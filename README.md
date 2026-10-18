@@ -1,0 +1,28 @@
+Составить программу, которая для каждой введенной цифры (0-9) вывести
+соответствующее ей название на английском языке (0 – zero, 1 – one, 2 – two
+...).
+
+**1. АЛГОРИТМ**
+1. Начало
+2. Ввод n
+3. Проверка условий:
+   n = 0? вывести "zero"
+   n = 1? вывести "one"
+   n = 2? вывести "two"
+   n = 3? вывести "three"
+   n = 4? вывести "four"
+   n = 5? вывести "five"
+   n = 6? вывести "six"
+   n = 7? вывести "seven"
+   n = 8? вывести "eight"
+   n = 9? вывести "nine"
+   n != 0-9 вывести "не цифра от 0-9"
+4. Конец
+
+**БЛОК СХЕМА**
+https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#R%3Cmxfile%3E%3Cdiagram%20name%3D%22%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0-1%22%20id%3D%22jRKQELNjFgs2_2_gzmv0%22%3E5V1Nc6M4EP01Oc4UEiCkY5xkZrdqt2qqctiZvbG2YjPB4ME4sefXrzDCIGFbYEt8xBfHCBBOv9brp24Bd%2FbDcvs18VeLv%2BMZDe%2BgNdve2Y93EBIM2WfWsMsbEHLyhnkSzPImUDY8B78pb7R46yaY0bVwYBrHYRqsxMZpHEV0mgptfpLE7%2BJhL3EoXnXlz2mt4Xnqh%2FXWf4JZushbMfTK9j9oMF8UVwaI5HuWfnEw%2F0%2FWC38Wv1ea7Kc7%2ByGJ4zT%2Fttw%2B0DCzXWGX%2FLwvJ%2FYeflhCo7TJCT69fwWvsY%2Bj3c9faPbv6t%2FX6acjvfCmdborbMD6YeZmG5P3RZDS55U%2Fzfa8M8BZ2yJdhmwLsK%2FsX1zRP6M1g4y35H29%2BeGG98UbaJLSbeV6%2FCd%2FpfGSpsmOHbKoWBVzE76XCACPt%2FFebItvcz8rrO5z%2FOeHnksTsS%2FcSi0sBptYjP1zqWiaY5Zbp0n8Sh%2FiME5YYxRHmYlfgjCUmvwwmEdsc8quSFn7JDNfwHz0nu9YBrNZdulJEm%2BiGc1%2BvpV1FUcpH1GAHAWDHUYes8%2BJdcd%2BJvaK7%2Bxzsv98uggwuw4YkvByHQEvxzWEl533S2e1cX7W5aPZfcYemdVDf70OpiKcoqGPevl5C7ncHAkN%2FTR4E39bxWzuGT%2FmV%2FgWB%2BwfKS2Lnc%2BuYFtgSZ2s400ypfy8KmWou3KkrlI%2FmdO01tUeqsO%2Ffjl6ThOw9rTDvrKj%2FDCkYTxP%2FCWDZUWTgP2AbMiI%2B76VO9pT2kuwpUWg0kdxSE1xkJDzWGgbM%2B44Oc47yXH7zwnkjJZ9Mseyoo64DbimyA3dHrnZEiPBy8mt1pX8ewyTm9cErGQRL%2F%2FbrIclvhwkOjyA5w2pzeHxOJnJPYYGox9r%2F415sP2lIy6CnikuAqAFGe3HqHpoVEmLdfvMN9d0vmRdPpVNExWnTTfJ2wEaESh2KscJ793CT9Lqdk4nhWLInCiI5vxUThDHd9JtkH7nl8%2B%2B%2F8jaP7t863FbOexx145sVcRaU3w1ZmXG8neVA1YZya1PE68LpfkVsSSPyXs8frbjHD%2B7NWnLP8O2u6VscHXE5axyMtyyXpLd9%2BpGxW%2ByzdJx9lui5%2BT%2FvnpgDSScQ11%2BAWX3xB37hXetX4xNiemDzul3SBeeo5BhAhIKKXYUKC1TQihGd4AVttOX9oJNrDQ45QVPjBv0a5PlXSe%2FaRKXWxfBBIBbwwnKONkSThb8bEqHQbuRP49gWuG4nXl3ozzT4LybqZGz8wpgbl7hEFvExliOA7rXhlaV5BpUXHWkQoaNPJkqmkbW2vipd2U6tl4ti0aFnUuQaHDvQk2EZE0kd2QaN3wtbmOTs7Vhdyl0ckeOPBU3DR25Nehqg%2BVyxpS76ho8uxFW185FUJhyHSH0W6jgbMen9V5h3Gciwltt9%2F2UKhnNU6El4%2Bjq7jD%2F%2ByW%2FRHG0mSmQ7ZDzkOmrJI9YWIs2cz2Fm%2Buz2ccU1tCcsEZAwgYaWxlxW8JaTh07Nrk0TNTGT70r04HCeB56UNh58qC4HDsP9Y7dzeWKXSDFaHnlyqXlH6fjNL99c%2FOi2nC5FLpaR11DR5ogNcw0v4Ps87bTpgmcNppAVcQvXOVEFT9O0kU8jyM%2FrBbyRQTKY%2F6K4xW3%2B0%2Bapjuu1PxNGouoFGX3orbetOzesMreYl4qebzbcRLHaaMRho1l2yUU2rHEbs9YNitSjmDuibDXFZc1is3Dm3seX6p%2FyK%2Bk79dWLNtXdxxiahLqwHGCpEgQ2OYSBB4UB5BrGcOm2QLVQUomZElWkglbn5VGtCb1DK20TgujE2nhdJFQejIJbJi4kC3Bjk0NDhfqVFfkltRV27WnRAK1SJGemmrWjnfbrFU9dXZXUs9tc8fasB2r6ylYW8eScxKSYykcpXZ2x47iNMtoDHFOYEuSBncVrN1G86hhBGvlrW2l3HTMyU0sy01jUwG3Ua1wmHLTsxRBQ5%2BVRnpzpmJW%2B8IimXF16MmhHRnz5TarcFRB3EV9BvHec2%2FAklZPe%2FLDHQwH2sKLPgCYvSfF5URq11gW5h%2BhaJISqdhTyE99ZNYoDzS8kKPI0bnmRBOR1isgY3fdok5WDBoSTQSe5wJ9VtJZ1kTwtsMxkBZhePKdf6bDsc66Zr9g9h6OidMzlvCjhGOCFMJGH5k1Woc8uHCsuhXzJfPi62aAR2JOka0oRJMlP9HKIE4jXfusyDUhc7IJWNLNM56xx8KhEdc2MVaQtjYreVBnqL2pIlddN0FpUoA7XkPk6Sws9Qtm77qplpPqGszC%2FuMXTsCSU0Lm6Gyk1R9F7nwdbI2nzuWMBja26sgb6bI9hWzyTMomIoEDjIEz4hod8RSUrc9KOqs%2FRerwVmWT%2FGRv0vEyiyKEfQAw%2B5dNcu6wazC9RtXzUcgm4HRGZ41qZiOJyBXZRN9oZFw41XIa2NiSVG%2BkdTqFcsIGlRPAQATH2Oom3EjWDlM5AQuJZqrRtj4z6azUFS%2BfuQ3p1Hb1K7ClPCIRn%2BmrPuGQBWm2YPbI%2BR2%2FTgLrLB326139azn5mbvdowkbUeoQxZxMsNDpjGDHWT1Uibnc3ubFnJRpIcZWkOKRVg8Vi66IQTEHPWkQGVt1hUdcPQQAqXhbn51GdG9kC7KJgujapQpN5iZExsnYM3YJ0KmL%2Bi0NHrTQj8qeThOWsso9DLiudNF4a4O156YrNaa%2BMTDS4uDRgDujL%2F4mTE1Rk%2B3KsBjTQcTRSE3FguPbpSbxAdVMMnVLTQUAoxBOdo2MRH1ZJ3Z9Xj%2FSWdpRMqq8ZtbNJgLZm2bRfhPvvzv7T4u%2FexZaxWsaWWPWk%2FWJ6OIxaTUosG0sv%2BAUGJs0kEa1JzrEly0Xt%2BaWNVnxgY51HtFntZEWn%2FDJkXBfeQ1pMSryIWEsWsusf8EKK7ZZvqs8DwflC9%2Ftp%2F8B%3C%2Fdiagram%3E%3C%2Fmxfile%3E
+
+**2. РЕАЛИЗАЦИЯ ПРОГРАММЫ**
+**3. РЕЗУЛЬТАТ ПРОГРАММЫ**
+**4. ФАМИЛИЯ, ГРУППА**
+Битюкова Юлия, БОТИ-261
